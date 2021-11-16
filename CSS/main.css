@@ -1,0 +1,21 @@
+#mainTable {
+    border: 2px;
+    padding: 10px;
+    /* border-radius: 1em; */
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-color: #d5f8b4;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  td {
+      width: 20px;
+      height: 30px;
+      background-color: white;
+  }
